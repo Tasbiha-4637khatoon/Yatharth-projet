@@ -1,0 +1,77 @@
+
+
+.carousel-caption d-none d-md-block h1{
+text-align: end;
+    
+}
+.About-header{
+    padding: 9px;
+    padding-top: 15px;
+    margin:5px ;
+}
+.about-header{
+    text-align: center;
+    
+    padding: 15px;
+    background-color:burlywood;
+    color:aliceblue;
+}
+.about-header h2{
+    font-size:25px;
+  
+    color: #08275d;
+}
+.card{
+    margin: 5px;
+    padding: 7px;
+}
+.card-header{
+    background-color:burlywood;
+    font-size:15;
+    color:aliceblue;
+    margin: 5px;
+   
+    border: solid 2px;
+}
+.card-body{
+    margin: 5px;
+    border: solid 2px;
+    border-color: aliceblue;
+}
+.card-body-about p{
+    text-align:justify;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.blockquote li{
+    font-size:  13px;
+}
+
+.card-img-top{
+    margin-right: 3px;
+    margin-left: 3px;
+}
+.card-group-header{
+    background-color:burlywood;
+    font-size:20px;
+    color:aliceblue;
+    margin: 5px;
+   padding-top: 20px;
+    border: solid 2px;
+}
+.card-group-header li{
+    text-align: justify;
+}
+.message{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #08275d;
+}
+.about-message p{
+    text-align: justify;
+}.accordion.h2.accordion-button{
+    color: #00ffff;
+
+}
